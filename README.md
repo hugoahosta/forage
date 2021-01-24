@@ -14,6 +14,11 @@ Then, navigate to a Facebook, LinkedIn, Twitter, or Instagram page and click the
 
 You should see 4 tabs pop up, expanding your search to other social media profiles and building a custom Google query for those social media searches.
 
+# Update (1/24/21)
+
+- Added Reddit
+- Added YouTube
+
 # To do list:
 
 - Add more sources
